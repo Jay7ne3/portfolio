@@ -1,6 +1,5 @@
 import React from "react";
-import { Container, Box, Typography, Paper, List, ListItem, ListItemText, Card } from "@mui/material";
-import { CenterFocusStrong } from "@mui/icons-material";
+import { Container, Box, Typography, List, ListItemText, Card } from "@mui/material";
 
 const progLangs = ["HTML", "CSS", "JS", "TS", "Java", "C++", "Python"];
 const tools = ["Eclipse", "VS Code"];
